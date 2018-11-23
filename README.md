@@ -1,6 +1,8 @@
+# Сравнение TalTech и UT
+* https://github.com/dfisun/road-to-success/blob/master/taltech-and-ut.md
+
 # Computer Science
 * https://cs50.harvard.edu
-
 
 ## WebDev
 * https://developers.google.com/web/fundamentals/
