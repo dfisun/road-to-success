@@ -3,6 +3,7 @@
 
 # Computer Science
 * https://cs50.harvard.edu
+* https://www.khanacademy.org/computing/computer-science
 
 ## WebDev
 * https://developers.google.com/web/fundamentals/
