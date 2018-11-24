@@ -1,3 +1,5 @@
+Изначально данный репозиторий подразумевался как шпаргалка для мероприятия "Путь к успеху", но сейчас это постоянно обновляемый список материалов и ссылок для тех, кто думает войти в ИТ. Постепенно будут добавляться описания и перспективы каждого направления, поскольку из одних ссылок мало что можно уловить, а рассказать все, что хотел, я не успел.
+
 # Сравнение TalTech и UT
 * https://github.com/dfisun/road-to-success/blob/master/taltech-and-ut.md
 
@@ -25,7 +27,6 @@
 ## Machine Learning
 * https://www.coursera.org/learn/machine-learning
 * http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/
-* d3.js
 * https://habr.com/post/414165/
 * https://www.oreilly.com/learning/how-does-facebook-recognize-my-face-and-the-faces-of-friends-and-family
 
@@ -34,6 +35,7 @@
 * https://serialmentor.com/dataviz/
 * https://r4ds.had.co.nz
 * https://stepik.org/course/401/
+* https://d3js.org (одна из задач аналитика – визуализация данных)
 
 ## GameDev
 * https://codeincomplete.com/posts/javascript-game-foundations/
@@ -43,6 +45,7 @@
 ## Programming
 * https://www.freecodecamp.org
 * http://rmurphey.com/blog/2016/02/13/exercises-for-js-beginners
+* https://habr.com/post/414009/
 
 ## Psychology
 
