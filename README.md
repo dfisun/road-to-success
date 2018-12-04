@@ -8,15 +8,16 @@
 * https://www.khanacademy.org/computing/computer-science
 
 ## WebDev
+* https://w3schools.com
 * https://developers.google.com/web/fundamentals/
 * http://www.obeythetestinggoat.com
-
+* https://developer.mozilla.org
 
 ## Databases
 * https://sqlbolt.com
 
 ## UX/UI
-* https://www.nickkolenda.com/user-experience/#ux-strategy36
+* https://www.nickkolenda.com/user-experience/
 
 ## Security
 * https://xss-game.appspot.com
